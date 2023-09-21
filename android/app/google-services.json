@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "74132673789",
+    "firebase_url": "https://vip-betting-tips-27b28.firebaseio.com",
+    "project_id": "vip-betting-tips-27b28",
+    "storage_bucket": "vip-betting-tips-27b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74132673789:android:92289bbe7579a5cc98da94",
+        "android_client_info": {
+          "package_name": "com.raysoft.vipbettingtipsexpertprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74132673789-1k38n83ovpi4soo1ivbmpllci9t8h8mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raysoft.vipbettingtipsexpertprediction",
+            "certificate_hash": "054b55930944fd55c74d21276791b24b3199222d"
+          }
+        },
+        {
+          "client_id": "74132673789-9gcs30bnk7iuc0rekb8iacbo9le0jbir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raysoft.vipbettingtipsexpertprediction",
+            "certificate_hash": "5e7baa4cc1aec173d63d65be847a297035bd5c82"
+          }
+        },
+        {
+          "client_id": "74132673789-18ibtce28oopob8b3f8kausd73er99gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3w1Vx2j7UtLNCeXvXW5cSxfODQ_BCNGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74132673789-18ibtce28oopob8b3f8kausd73er99gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
